@@ -6,3 +6,4 @@ contract Add {
         return (a + b);
     }
 }
+/* add a+b as return */
